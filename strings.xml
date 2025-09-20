@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ജ്യോതിഷം</string>
+    <string name="horoscope">ജാതകം</string>
+    <string name="prashnam">പ്രശ്നം</string>
+    <string name="muhurtham">മുഹൂർത്തം</string>
+    <string name="panchangam">പഞ്ചാംഗം</string>
+</resources>
